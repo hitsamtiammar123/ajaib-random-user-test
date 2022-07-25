@@ -3,5 +3,11 @@
 }
 
 .standard-input{
-  width: 300px;
+  min-width: 300px;
+  height: 40px;
+}
+
+.standard-button{
+  min-height: 40px;
+  width: 160px;
 }
